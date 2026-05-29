@@ -5,11 +5,6 @@
         "text": "Super Payments is on a mission to offer free payments to business in the UK. Transactions feed all reporting and settlement processes, and in 2024, in pursuit of safety and performance, Super migrated to TigerBeetle to ensure financial consistency, increase internal confidence, and handle throughput and transactions per second requirements for the decade to come."
     },
     {
-        "logo": "triplezip.svg",
-        "link": "https://www.triplezip.ai",
-        "text": "TripleZip is a commercial tenant portal, the easiest way to collect rent online for commercial properties. Implementing TigerBeetle to power TripleZip’s ledger—which tracks tenants, property managers, and payments—took just two days. The team rests easy on TigerBeetle’s extreme engineering, strict consistency, and reliability guarantees."
-    },
-    {
         "logo": "pesawise.svg",
         "link": "https://pesawise.com",
         "text": "Pesawise is an all-in-one platform for business payments in Kenya. TigerBeetle was adopted to solve month-end performance issues that were slowing the system down, impacting customers. The migration of millions of historical transactions was completed successfully in a weekend, and TigerBeetle is now the system of record."
